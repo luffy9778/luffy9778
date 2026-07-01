@@ -12,9 +12,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=luffy9778&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 
 ---
 [![](https://komarev.com/ghpvc/?username=luffy9778&icon=7&color=0)](https://visitcount.itsvg.in)
